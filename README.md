@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b6ca8,100:63b3ed&height=200&section=header&text=Hasan%20Saiyyed&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20%26%20Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="./banner.svg" width="100%" alt="Hasan Saiyyed - Full Stack Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&multiline=true&width=750&height=75&lines=☕+Java+%7C+Spring+Boot+%7C+Microservices;⚛️+React.js+%7C+TypeScript+%7C+Tailwind+CSS+%7C+Vite;🌐+Modern+JavaScript+(ES6%2B)+%7C+HTML5+%7C+CSS3;🚀+Building+Pixel-Perfect+%26+Scalable+Web+Apps)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=75&lines=☕+Java+%7C+Spring+Boot+%7C+Microservices;⚛️+React.js+%7C+TypeScript+%7C+Tailwind+CSS+%7C+Vite;🌐+Modern+JavaScript+(ES6%2B)+%7C+HTML5+%7C+CSS3;🚀+Building+High-Performance+Full+Stack+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,12 +30,12 @@ public class HasanSaiyyed {
         "Microservices", "RESTful APIs", "Maven"
     };
 
-    private final String[] databaseAndCloud = {
-        "MySQL", "PostgreSQL", "MongoDB", "Docker", "AWS", "Git/GitHub"
+    private final String[] databasesAndCloud = {
+        "MySQL", "PostgreSQL", "Docker", "AWS", "Git/GitHub"
     };
 
     public String getGoal() {
-        return "Crafting high-performance backends with stunning, responsive frontends 💻✨";
+        return "Crafting high-performance backends with clean, responsive frontends 💻✨";
     }
 }
 ```
@@ -61,11 +63,9 @@ public class HasanSaiyyed {
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### 🗄️ Databases & Caching
+### 🗄️ Relational Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps, Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,13 +83,13 @@ public class HasanSaiyyed {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasansaiyyed1990-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63B3ED&icon_color=63B3ED&text_color=ffffff&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasansaiyyed1990-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&count_private=true" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasansaiyyed1990-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63B3ED&text_color=ffffff&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasansaiyyed1990-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasansaiyyed1990-cloud&theme=tokyonight&hide_border=true&background=0D1117&stroke=63B3ED&ring=63B3ED&fire=FF6B6B&currStreakLabel=63B3ED" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasansaiyyed1990-cloud&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
 
 </div>
 
@@ -110,7 +110,7 @@ public class HasanSaiyyed {
 | 🌐 **Modern Full-Stack Web App** | High-performance interactive UI connected to scalable REST microservices | React, TypeScript, Tailwind CSS, Vite | [Demo](#) |
 | 🏥 **Hospital Management System** | Enterprise healthcare portal with appointment booking & patient billing | Spring Boot, React, MySQL, Tailwind | [Repo](#) |
 | 🛒 **E-Commerce Platform** | Microservices architecture with payment gateway integration & real-time cart | Java, Spring Boot, React, Docker | [Repo](#) |
-| 🤖 **DreamPhysic AI** | AI-driven application featuring modern responsive UI and smart insights | React, Vite, Spring Boot, Python AI | [Repo](https://github.com/hasansaiyyed1990-cloud/dreamphysic.ai) |
+| 🤖 **DreamPhysic AI** | AI-driven application featuring modern responsive UI and smart insights | React, Vite, Spring Boot, MySQL | [Repo](https://github.com/hasansaiyyed1990-cloud/dreamphysic.ai) |
 
 > 🔗 *Check out all my work on my [Repositories](https://github.com/hasansaiyyed1990-cloud?tab=repositories) page*
 
@@ -119,7 +119,7 @@ public class HasanSaiyyed {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasansaiyyed1990-cloud&bg_color=0D1117&color=63B3ED&line=1b6ca8&point=63B3ED&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasansaiyyed1990-cloud&bg_color=0D1117&color=38BDF8&line=0284c7&point=38BDF8&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -134,8 +134,6 @@ public class HasanSaiyyed {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hasansaiyyed1990-cloud&label=Profile%20Views&color=1b6ca8&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ed,50:1b6ca8,100:0f4c75&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=hasansaiyyed1990-cloud&label=Profile%20Views&color=0284c7&style=for-the-badge" />
 
 </div>
